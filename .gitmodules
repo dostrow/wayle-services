@@ -1,0 +1,3 @@
+[submodule "wayle-cava/cava"]
+	path = wayle-cava/cava
+	url = https://github.com/Jas-SinghFSU/cava.git
